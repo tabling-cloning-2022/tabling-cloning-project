@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 import project.cloning.tabling.config.auth.dto.OAuthAttributes;
 import project.cloning.tabling.config.auth.dto.SessionUser;
 import project.cloning.tabling.domain.user.User;
-import project.cloning.tabling.domain.user.UserRepository;
+import project.cloning.tabling.repository.UserRepository;
 
 @RequiredArgsConstructor
 @Service

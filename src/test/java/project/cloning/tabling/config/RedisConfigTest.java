@@ -16,7 +16,7 @@ public class RedisConfigTest {
   @Test
   void redisConnectionTest() {
     String key = "USER_ID";
-    String data = "sunny";
+    String data = "tabling_account";
 
     /**
      *  RedisTemplate 제 자료 타입
